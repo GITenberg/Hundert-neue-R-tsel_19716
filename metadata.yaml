@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8832'
     url: http://www.gutenberg.org/2009/agents/8832
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19716#Hundert-neue-R-tsel
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2006-11-05'
 gutenberg_type: Text
