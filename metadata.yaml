@@ -1,0 +1,26 @@
+_repo: Hundert-neue-R-tsel_19716
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Döhring, Angela
+    alias: Dohring, Angela
+    gutenberg_agent_id: '8832'
+    url: http://www.gutenberg.org/2009/agents/8832
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2006-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19716'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Riddles, Juvenile'
+- !lcc 'PZ'
+title: Hundert neue Rätsel
+url: http://www.gutenberg.org/ebooks/19716
